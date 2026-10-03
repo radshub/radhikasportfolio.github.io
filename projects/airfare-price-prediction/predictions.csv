@@ -1,0 +1,4 @@
+Scenario,Predicted_Fare,Difference_vs_Baseline
+Baseline Prospective Route,182.23663139491094,0.0
+Southwest Scenario,137.95061051255828,-44.28602088235266
+Pre-Operation Model,175.5562740508815,-6.6803573440294315
