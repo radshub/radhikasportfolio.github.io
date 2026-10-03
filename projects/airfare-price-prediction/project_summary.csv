@@ -1,0 +1,12 @@
+Metric,Value
+Training Observations,446.0
+Validation Observations,192.0
+BIC-Selected Predictors,9.0
+BIC-Selected Training Adjusted R2,0.7656954467610112
+BIC-Selected Validation RMSE,32.81688532605142
+Top 10% Lift,1.8098845603362033
+Baseline Prospective Fare,182.23663139491094
+Southwest Scenario Fare,137.95061051255828
+Southwest Scenario Difference,-44.28602088235266
+Pre-Operation Validation RMSE,33.93707585478577
+Pre-Operation Prospective Fare,175.5562740508815
