@@ -63,7 +63,7 @@ These patterns can help identify customer segments that may warrant closer atten
 
 The Excel dashboard consolidates the analysis into a visual reporting format, allowing users to review key customer and purchasing patterns without working directly with the underlying PivotTables.
 
-![Bike Sales Excel Dashboard](bike-sales-dashboard.png)
+![Bike Sales Excel Dashboard](bike-sales-dashboard.jpg)
 
 The dashboard is designed to support:
 
